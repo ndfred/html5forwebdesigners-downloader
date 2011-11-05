@@ -11,7 +11,7 @@ Apart from the great content, its markup is a great simple and easy to read exam
 * custom fonts
 * more every time I dig through it
 
-The script just parses the manifest file and downloads all of the content is a folder named `html` along the script.
+The `download.sh` script just parses the manifest file and downloads all of the content is a folder named `html` along the script.
 Have fun exploring Jeremy's source code!
 
 [jeremy]: http://adactio.com/
