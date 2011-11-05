@@ -1,0 +1,15 @@
+HTML5 For Web Designers downloader
+==================================
+
+Download Jeremy Keith's HTML5 For Web Designers book source code for offline study.
+Apart from the great content, its markup is a great simple and easy to read example of:
+
+* offline caching
+* responsive Web design
+* micro formats
+* CSS3
+* custom fonts
+* more every time I dig through it
+
+The script just parses the manifest file and downloads all of the content is a folder named `html` along the script.
+Have fun exploring Jeremy's source code!
